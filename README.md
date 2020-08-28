@@ -16,8 +16,8 @@ Tree based methods
 
 
 Linear Models
-1.Logistic Regression (also includes OVR implementation)
-2.Linear Regression 
+1. Logistic Regression (also includes OVR implementation)
+2. Linear Regression 
 
 Neighbours 
 1. KNN
