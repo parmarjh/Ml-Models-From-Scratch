@@ -14,19 +14,20 @@ Tree based methods
 4. Gradient Boosting Trees 
 5. Adaboost Classifier 
 
+
 Linear Models
-6.Logistic Regression (also includes OVR implementation)
-7.Linear Regression 
+1.Logistic Regression (also includes OVR implementation)
+2.Linear Regression 
 
 Neighbours 
-8. KNN
+1. KNN
 
 Probablistic Methods:
-9. Naive Bayes (gaussian kernel)
+1. Naive Bayes (gaussian kernel)
 more will be added 
 
 Dimensionality Reduction 
-10. Lda 
+1. Lda 
 
 
 
